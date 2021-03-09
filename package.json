@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThePlexus/mizie/issues"
   },
-  "homepage": "https://github.com/ThePlexus/mizie#readme"
+  "homepage": "https://github.com/ThePlexus/mizie#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
 }
